@@ -1,0 +1,18 @@
+ga nyontek
+ga buka internet
+dikasih waktu 20 menit
+
+bikin file baru
+input 5 data siswa nama lalu hasilnya outputkan
+
+
+
+
+
+tugas 2
+10 data angka lalu 10 tersebut jumlahkan semuanya
+pake 2d
+
+tugas 3
+3 data siswa nama nis rayon dpk
+make aray 1 dimensi
